@@ -1,5 +1,1 @@
-@import "tailwindcss";
-@plugin "daisyui" {
-  themes :
-    night
-};
+/* Tailwind CSS loaded via CDN in index.html */
